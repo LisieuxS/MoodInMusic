@@ -3,11 +3,16 @@
 
 MoodInMusic es un dataset que recupera las emociones que perciben en las canciones los universitarios de Tec de Monterrey Campus Qro.
 
+Se caracteriza por usar la ruleta emocional de Plutchik para describir el estado emocional de los participantes previo a la evaluación de canciones.
+
+De igual manera utiliza la escala musical de emociones (GEMS-27) para la clasificación de emociones percibidas en cada pieza.
 
 
 Se compone de:
 
 - 816 resultados
+- 50 canciones
+- 84 participantes
 
 ---
 
