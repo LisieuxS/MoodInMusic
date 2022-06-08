@@ -17,10 +17,10 @@ Se compone de:
 ---
 
 ## Diccionario de datos
-|Atributo|Descripcion|
+|Atributo|Descripción|
 |-|-|
 |Nombre|Nombre de la canción|
-|Artista|Nombre del Intérprete|
+|Artista|Nombre del intérprete|
 |Lanzamiento|Año de lanzamiento|
 |Género|Género al que pertenece|
 |Emoción inicial|Emoción del participante previo al experimento|
@@ -38,4 +38,9 @@ Se compone de:
 |Inglés|Nivel de dominio que el participante considera tener en inglés|
 |Francés|Nivel de dominio que el participante considera tener en francés|
 |Catalán|Nivel de dominio que el participante considera tener en catalán|
+
+---
+## Usos
+Cada atributo puede ser usado como filtro para especificar y acotar preguntas.
+
 
